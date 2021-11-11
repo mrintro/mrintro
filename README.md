@@ -1,4 +1,7 @@
 ### Hi there 👋
+Welcome to the profile of a developer, recently getting serious about github Profile.
+
+Aiming to keep on learning and well yeah, increasing this heat map density of github just for my motivation. ⚡
 
 <!--
 **mrintro/mrintro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
