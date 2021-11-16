@@ -1,5 +1,5 @@
 ### Hi there 👋
-Welcome to the profile of a developer, recently getting serious about github Profile.
+Welcome to the profile of a developer who is recently getting serious about github Profile.
 
 Aiming to keep on learning and well yeah, increasing this heat map density of github just for my motivation. ⚡
 
