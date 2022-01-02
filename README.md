@@ -3,6 +3,16 @@ Welcome to the profile of a developer who is recently getting serious about gith
 
 Aiming to keep on learning and well yeah, increasing this heat map density of github just for my motivation. ⚡
 
+🔭 I’m currently working on [Ecothon encapsulating my android learning](https://github.com/mrintro/Ecothon-Imposters)
+- 🌱 I’m currently learning ---> Android 
+- 👯 I’m looking to collaborate on Anything that can thrill me
+- 💬 Ask me about DSA and React
+- 📫 How to reach me: 
+-   [📫](aniketpanwar.1998@gmail.com)
+-   [📷](https://www.instagram.com/_header_bug_/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Created a gaming PC to study.
+
 <!--
 **mrintro/mrintro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
