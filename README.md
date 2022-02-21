@@ -6,12 +6,11 @@ Aiming to keep on learning and well yeah, increasing this heat map density of gi
 🔭 I’m currently working on [HealtifiesMe encapsulating my android learning](https://github.com/mrintro/HealtifiesMe)
 - 🌱 I’m currently learning ---> Android 
 - 👯 I’m looking to collaborate on Anything that can thrill me
-- 💬 Ask me about DSA and React
+- 💬 Ask me about Android, DSA and React
 - 📫 How to reach me: 
   -   [📫 Email](aniketpanwar.1998@gmail.com) 
   -   [📷 Insta](https://www.instagram.com/_header_bug_/)
   -   [📝LinkedIn](www.linkedin.com/in/aniket-panwar)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Created a gaming PC to study.
 
 <!--
