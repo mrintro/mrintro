@@ -3,7 +3,7 @@ Welcome to the profile of a developer who is recently getting serious about gith
 
 Aiming to keep on learning and well yeah, increasing this heat map density of github just for my motivation. ⚡
 
-🔭 I’m currently working on [Ecothon encapsulating my android learning](https://github.com/mrintro/Ecothon-Imposters)
+🔭 I’m currently working on [HealtifiesMe encapsulating my android learning](https://github.com/mrintro/HealtifiesMe)
 - 🌱 I’m currently learning ---> Android 
 - 👯 I’m looking to collaborate on Anything that can thrill me
 - 💬 Ask me about DSA and React
